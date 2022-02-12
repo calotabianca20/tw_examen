@@ -1,0 +1,8 @@
+.reference-container{
+    display: flex;
+   
+}
+.reference-container div{
+    border: 1px solid black;
+    width : 33.33%;
+}

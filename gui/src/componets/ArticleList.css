@@ -1,0 +1,21 @@
+.articles-container{
+    border: 1px solid black;
+    margin-top: 20px;
+    width: 65%;
+    margin-left: 250px;
+}
+
+button {
+    margin-top: 25px;
+    display: inline;
+
+}
+.btn-delete{
+    margin-left: 5px;
+}
+
+.btn-add{
+    margin-right: 5px;
+}
+
+
